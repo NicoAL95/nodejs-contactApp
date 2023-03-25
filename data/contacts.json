@@ -5,7 +5,8 @@
   },
   {
     "nama": "Michelle",
-    "email": "michellenico@mail.com"
+    "email": "michellenico@mail.com",
+    "noHp": "081295180822"
   },
   {
     "nama": "Nico Michelle",
@@ -16,5 +17,10 @@
     "nama": "Memet",
     "email": "memet@mail.com",
     "noHp": "12345"
+  },
+  {
+    "nama": "nico",
+    "email": "nico93@mail.com",
+    "noHp": "12345693"
   }
 ]
